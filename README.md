@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tejas
+- 👀 I’m interested in C++ software development, signal processing, wireless networks 
+- 🌱 I’m currently learning C++, python and Linux and exploring new projects to contribute as well 
+- 💞️ I’m looking to collaborate on projects that are unique and as lot to learn 
+- 📫 Reach me at tejasgowdasm@gmail.com
